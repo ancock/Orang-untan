@@ -85,6 +85,7 @@
             <li><strong>Veränderte Fortpflanzungsraten:</strong> Stressfaktoren durch den Klimawandel beeinflussen die Fortpflanzungsraten der Orang-Utans negativ, was langfristig zu einem Rückgang der Population führt.</li>
         </ul>
         <p>Diese Herausforderungen verdeutlichen die Notwendigkeit von Schutzmaßnahmen und Anstrengungen zur Erhaltung der Lebensräume der Orang-Utans.</p>
+        <img src="klimawandel_orangutans.jpg" alt="Orang-Utan in einer durch den Klimawandel beeinflussten Umgebung" title="Der Klimawandel und seine Auswirkungen auf Orang-Utans">
     </section>
 
     <section id="hilfe" class="content">
