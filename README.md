@@ -72,7 +72,6 @@
     <section id="lebensweise" class="intro">
         <h2>Lebensweise der Orang-Utans</h2>
         <p>Orang-Utans sind hochintelligente Primaten, die in den Regenwäldern Borneos und Sumatras beheimatet sind. Sie verbringen den Großteil ihres Lebens in den Baumkronen und ernähren sich überwiegend von Früchten.</p>
-        <img src="orangutans.jpg" alt="Orang-Utan in seinem natürlichen Lebensraum">
     </section>
 
     <section id="klimawandel">
